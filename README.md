@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Shan</h1>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1>About Me! 😎</h1>
-- 🔭 I like to explore **new technologies and develop software solutions and quick hacks**
+- 🔭 I like to explore new technologies and develop software solutions and quick hacks
 
 - 🌱 I'm on track for learning more about **System Design and Cyber Security**
 
